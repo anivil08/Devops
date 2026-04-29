@@ -1,1 +1,1 @@
-pytho app
+python app
